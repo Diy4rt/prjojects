@@ -152,7 +152,7 @@ section {
 
 .ab {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
   margin: 50px 20px;
 }
@@ -184,7 +184,7 @@ section {
 
 .txt {
   text-align: left;
-  width: 500px;
+  width: 400px;
   line-height: 1.5;
 }
 
